@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672836727 source:d:\coding\c\insertionarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
